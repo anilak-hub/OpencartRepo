@@ -1,0 +1,515 @@
+17:12:23.794 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+17:12:23.916 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+17:12:24.316 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+17:12:24.520 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+17:12:25.264 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+17:12:25.304 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+17:12:50.468 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+17:12:50.565 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+17:12:51.083 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+17:12:51.086 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+17:12:51.565 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+17:12:51.629 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+17:12:52.378 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+17:12:52.411 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+17:12:52.411 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+17:12:55.584 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+17:12:55.678 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+17:12:56.009 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+17:12:56.200 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+17:12:56.914 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+17:12:56.951 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+17:12:27.359 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+17:12:27.496 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+17:12:28.051 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+17:12:28.054 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+17:12:28.517 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+17:12:28.581 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+17:12:29.356 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+17:12:29.388 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+17:12:29.388 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+17:12:32.389 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+17:12:32.478 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+17:12:32.814 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+17:12:32.995 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+17:12:33.711 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+17:12:33.744 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+17:12:04.248 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+17:12:04.350 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+17:12:04.868 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+17:12:04.872 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+17:12:05.341 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+17:12:05.400 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+17:12:06.341 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+17:12:06.373 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+17:12:06.374 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+17:12:09.583 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+17:12:09.692 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+17:12:10.039 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+17:12:10.226 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+17:12:11.078 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+17:12:11.109 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+17:12:50.656 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+17:12:50.788 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+17:12:51.317 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+17:12:51.320 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+17:12:51.789 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+17:12:51.851 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+17:12:52.596 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+17:12:52.634 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+17:12:52.634 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+17:12:55.887 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+17:12:55.976 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+17:12:56.320 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+17:12:56.498 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+17:12:57.226 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+17:12:57.260 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+17:12:27.014 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+17:12:27.132 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+17:12:27.687 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+17:12:27.690 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+17:12:28.157 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+17:12:28.236 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+17:12:29.102 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+17:12:29.146 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+17:12:29.146 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+17:12:32.396 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+17:12:32.499 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+17:12:32.844 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+17:12:33.037 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+17:12:33.754 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+17:12:33.797 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+17:12:02.061 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+17:12:02.165 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+17:12:02.699 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+17:12:02.705 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+17:12:03.173 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+17:12:03.237 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+17:12:04.055 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+17:12:04.093 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+17:12:04.093 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+17:12:07.313 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+17:12:07.397 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+17:12:07.731 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+17:12:07.915 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+17:12:08.628 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+17:12:08.665 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+11:01:29.552 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+11:01:29.679 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+11:01:30.227 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+11:01:30.231 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+11:01:30.741 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+11:01:30.804 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+11:01:31.786 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+11:01:31.828 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+11:01:31.829 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+11:01:35.135 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+11:01:35.229 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+11:01:35.580 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+11:01:35.786 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+11:01:36.551 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+11:01:36.590 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+13:01:46.377 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+13:01:46.490 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+13:01:47.306 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+13:01:47.328 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+13:01:47.814 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+13:01:47.880 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+13:01:48.898 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+13:01:48.949 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+13:01:48.949 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+13:01:52.908 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+13:01:52.999 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+13:01:53.391 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+13:01:53.608 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+13:01:54.547 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+13:01:54.591 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+22:01:01.867 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+22:01:02.071 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+22:01:02.852 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+22:01:02.873 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+22:01:03.412 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+22:01:03.476 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+22:01:04.284 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+22:01:04.324 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+22:01:04.324 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+22:01:07.373 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+22:01:07.465 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+22:01:07.820 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+22:01:08.030 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+22:01:08.751 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+22:01:08.798 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+10:02:10.051 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+10:02:10.222 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+10:02:10.835 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+10:02:10.854 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+10:02:11.371 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+10:02:11.434 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+10:02:12.374 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+10:02:12.418 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+10:02:12.418 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+10:02:15.867 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+10:02:16.004 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+10:02:16.368 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+10:02:16.581 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+10:02:17.385 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+10:02:17.437 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+11:02:56.796 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+11:02:56.925 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+11:02:57.341 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+11:02:57.543 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+11:02:58.568 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+11:02:59.411 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+20:02:51.090 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+20:02:02.624 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+20:02:12.727 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+20:02:22.809 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:23.288 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:35.733 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:45.887 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:56.067 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:18.044 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:30.209 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:40.361 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:50.580 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:54.865 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:06.611 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:16.816 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+09:02:26.974 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:55.907 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:58.725 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:58.736 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:10.295 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:10.295 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:21.877 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:21.884 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:24.630 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:12.961 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:15.594 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:15.603 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:26.915 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:26.921 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:39.300 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:39.312 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:42.179 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:34.227 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:36.739 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:36.759 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:48.436 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:48.441 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:01.162 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:01.168 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:04.092 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:57.075 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:59.309 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:59.316 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:10.544 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:10.544 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:21.913 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:21.920 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:24.250 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:24.693 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:27.045 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:27.071 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:38.217 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:38.226 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:49.876 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:49.882 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:14.961 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:19.532 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:19.541 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:31.042 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:31.042 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:46.478 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:46.478 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:50.119 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+09:02:54.855 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+09:02:54.997 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+09:02:55.781 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+09:02:55.814 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+09:02:56.255 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+09:02:56.314 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+09:02:57.192 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+09:02:57.262 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+09:02:57.262 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+10:02:01.994 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+10:02:02.095 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+10:02:02.809 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+10:02:02.981 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+10:02:05.526 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+10:02:06.156 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+10:02:39.874 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+10:02:39.989 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+10:02:40.369 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+10:02:40.537 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+10:02:41.332 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+10:02:41.991 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+10:02:38.683 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:41.415 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:41.433 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:52.870 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:52.880 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:04.583 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:04.585 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:07.295 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:41.637 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+10:02:41.766 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+10:02:42.631 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+10:02:42.636 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+10:02:43.012 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+10:02:43.071 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+10:02:44.076 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+10:02:44.127 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+10:02:44.127 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+10:02:52.816 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+10:02:52.905 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+10:02:53.325 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+10:02:53.502 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+10:02:54.333 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+10:02:55.036 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+10:02:34.812 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:37.371 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:37.376 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:48.560 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:48.564 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:00.106 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+10:02:00.108 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+10:02:03.348 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+16:02:32.297 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+16:02:34.259 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+16:02:34.270 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+16:02:35.357 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+16:02:35.360 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+16:02:35.376 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:58.222 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+11:02:58.393 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+11:02:59.067 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+11:02:59.088 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+11:02:59.564 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+11:02:59.624 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+11:02:00.734 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+11:02:00.772 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+11:02:00.775 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+11:02:05.319 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+11:02:05.450 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+11:02:05.769 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+11:02:05.953 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+11:02:06.733 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+11:02:07.736 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+11:02:03.482 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:05.563 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:05.617 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:16.695 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:16.709 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:27.791 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:27.795 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+11:02:29.653 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+11:02:21.019 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+11:02:21.180 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+11:02:21.697 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+11:02:21.700 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+11:02:22.198 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+11:02:22.263 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+11:02:22.981 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+11:02:23.023 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+11:02:23.023 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+11:02:21.952 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+11:02:22.074 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+11:02:22.952 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+11:02:22.956 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+11:02:23.384 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+11:02:23.450 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+11:02:24.864 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+11:02:24.905 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+11:02:24.906 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+11:02:29.151 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+11:02:29.249 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+11:02:29.531 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+11:02:29.698 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+11:02:30.559 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+11:02:31.158 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+11:02:14.496 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+11:02:14.664 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+11:02:15.719 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+11:02:15.721 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+11:02:16.137 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+11:02:16.206 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+11:02:16.958 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+11:02:17.004 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+11:02:17.005 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+11:02:21.077 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+11:02:21.176 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+11:02:21.468 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+11:02:21.643 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+11:02:22.356 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+11:02:22.841 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:19:12:02:05.734 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:05.895 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:06.707 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:06.908 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:07.909 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:08.814 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:19:12:02:14.991 [TestNG-tests-2] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:15.217 [TestNG-tests-2] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:15.584 [TestNG-tests-2] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:15.914 [TestNG-tests-2] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:16.709 [TestNG-tests-2] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:17.392 [TestNG-tests-2] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:19:12:02:43.102 [TestNG-tests-3] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:43.450 [TestNG-tests-3] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:43.683 [TestNG-tests-3] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:43.826 [TestNG-tests-3] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:44.497 [TestNG-tests-3] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:45.187 [TestNG-tests-3] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:04:19:12:02:52.621 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:04:19:12:02:52.731 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:04:19:12:02:53.420 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:04:19:12:02:53.429 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:04:19:12:02:53.904 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:04:19:12:02:53.979 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:04:19:12:02:55.737 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:04:19:12:02:55.783 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:04:19:12:02:55.784 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:05:19:12:02:01.925 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:05:19:12:02:02.023 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:05:19:12:02:03.024 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:05:19:12:02:03.194 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:05:19:12:02:05.286 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:05:19:12:02:05.929 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:19:12:02:58.509 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:10.289 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:10.297 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:12.844 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:22.318 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:19:12:02:22.481 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:19:12:02:23.250 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:19:12:02:23.254 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:19:12:02:23.666 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:19:12:02:23.735 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:19:12:02:24.450 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:19:12:02:24.512 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:19:12:02:24.512 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:19:12:02:27.510 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:27.617 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:27.952 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:28.241 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:28.816 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:04.850 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:05.000 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:05.293 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:05.525 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:06.229 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:06.731 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:19:12:02:30.649 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:19:12:02:30.755 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:19:12:02:31.297 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:19:12:02:31.303 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:19:12:02:31.723 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:19:12:02:31.782 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:19:12:02:32.409 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:19:12:02:32.443 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:19:12:02:32.445 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:19:12:02:35.761 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:35.885 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:36.183 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:36.339 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:36.828 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:51.090 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:52.641 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:52.658 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:03.828 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:03.836 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:14.780 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:14.787 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:16.690 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:38.917 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:39.047 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:39.388 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:39.556 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:40.164 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:41.483 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:19:12:02:21.202 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:19:12:02:21.362 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:19:12:02:21.946 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:19:12:02:21.982 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:19:12:02:38.350 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:38.462 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:39.447 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:39.698 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:40.854 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:59.678 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:02.489 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:02.501 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:13.835 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:13.840 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:25.451 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:25.451 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:27.405 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:52.495 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:19:12:02:52.639 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:19:12:02:53.848 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:19:12:02:53.853 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:19:12:02:54.422 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:19:12:02:54.538 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:19:12:02:55.728 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:19:12:02:55.798 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:19:12:02:55.798 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:19:12:02:07.421 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:19:12:02:07.509 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:19:12:02:08.573 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:19:12:02:08.845 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:19:12:02:09.649 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:19:12:02:10.162 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:19:12:02:16.351 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:18.179 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:18.190 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:29.474 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:29.489 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:41.049 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:19:12:02:41.054 [main] INFO  testCases.TC003_LoginTestDDT -******Starting TC003_LoginTest******
+2025:19:12:02:44.641 [main] INFO  testCases.TC003_LoginTestDDT -******Finished TC003_LoginTest******
+2025:21:10:02:38.417 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:21:10:02:38.610 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:21:10:02:39.165 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:21:10:02:39.180 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:21:10:02:39.571 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:21:10:02:39.630 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:21:10:02:40.481 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:21:10:02:40.519 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:21:10:02:40.520 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:21:12:02:40.629 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:21:12:02:40.739 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:21:12:02:41.280 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:21:12:02:41.282 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:21:12:02:41.701 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:21:12:02:41.760 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:21:12:02:42.596 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:21:12:02:42.637 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:21:12:02:42.637 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:03:14:03:22.589 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:03:14:03:22.744 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:03:14:03:23.296 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:03:14:03:23.303 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:03:14:03:23.727 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:03:14:03:23.796 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:03:14:03:24.624 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:03:14:03:24.656 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:03:14:03:24.656 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:03:14:03:53.605 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:03:14:03:53.744 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:03:14:03:54.288 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:03:14:03:54.290 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:03:14:03:54.698 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:03:14:03:54.753 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:03:14:03:55.540 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:03:14:03:55.574 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:03:14:03:55.574 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:07:12:03:16.350 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:07:12:03:16.529 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:07:12:03:28.109 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:07:12:03:28.135 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:07:12:03:28.691 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:07:12:03:28.776 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:07:12:03:33.957 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:07:12:03:34.002 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:07:12:03:34.002 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
