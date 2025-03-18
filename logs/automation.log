@@ -513,3 +513,21 @@
 2025:07:12:03:33.957 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
 2025:07:12:03:34.002 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
 2025:07:12:03:34.002 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:17:18:03:55.570 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:17:18:03:55.722 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:17:18:03:56.302 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:17:18:03:56.318 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:17:18:03:56.749 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:17:18:03:56.814 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:17:18:03:57.780 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:17:18:03:57.818 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:17:18:03:57.818 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
+2025:17:18:03:05.283 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest***
+2025:17:18:03:05.404 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Myaccount
+2025:17:18:03:05.985 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register
+2025:17:18:03:05.986 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer deatils for registering
+2025:17:18:03:06.414 [main] INFO  testCases.TC001_AccountRegistrationTest -All details provided
+2025:17:18:03:06.492 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on privacy confirmation checkbox
+2025:17:18:03:07.337 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Continue button
+2025:17:18:03:07.375 [main] INFO  testCases.TC001_AccountRegistrationTest -Validated registration confirmation message
+2025:17:18:03:07.375 [main] INFO  testCases.TC001_AccountRegistrationTest -***Finished TC001_AccountRegistrationTest***
