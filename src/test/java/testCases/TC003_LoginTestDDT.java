@@ -22,7 +22,7 @@ public class TC003_LoginTestDDT extends BaseClass {
 
 	// If Data provider is in the same class then we don't need to specify location
 	
-	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class, groups = {"DataDriven", "Master"}) 
+	@Test(dataProvider = "LoginData",dataProviderClass = DataProviders.class, groups = {"DataDriven", "Master"}) 
 	// Getting Data Provider from another package and another class
 	
 	

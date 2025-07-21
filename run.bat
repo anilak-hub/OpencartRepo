@@ -1,2 +1,2 @@
-cd C:\Users\anilk\Desktop\selenium practice\Opencart121
+cd C:\Selenium\Opencart
 mvn clean test

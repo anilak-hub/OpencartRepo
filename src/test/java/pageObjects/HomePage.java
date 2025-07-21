@@ -21,7 +21,7 @@ public class HomePage extends BasePage  {
 
 	public void clickMyAccount() {
 		myAccount.click();
-		System.out.println("clicked on my acc");
+		//System.out.println("clicked on my acc in home poage");
 	}
 	
 	public void clickRegister() {
@@ -29,6 +29,6 @@ public class HomePage extends BasePage  {
 	}
 	public void clickLogin() {
 		login.click();
-		System.out.println("clicked on login");
+		//System.out.println("clicked on login in home poage");
 	}
 }

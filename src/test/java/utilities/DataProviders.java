@@ -10,7 +10,7 @@ public class DataProviders {
 	
 	@DataProvider(name="LoginData")
 	public String [][] getData() throws IOException {
-		String path="C:\\Users\\anilk\\Desktop\\selenium practice\\Opencart121\\testData\\ddt.xlsx";//Taking excell file from testData
+		String path="C:\\Selenium\\Opencart\\src\\test\\resources\\ddt.xlsx";//Taking excell file from testData
 		
 		ExcellUtility xlutil= new ExcellUtility(path);//Creating object of ExcellUtility class
 		
@@ -19,7 +19,7 @@ public class DataProviders {
 		
 		String loginData[][]= new String[tottalRows][totalCells];//created two dimension array which can store login data
 		
-		for (int i = 1; i <=tottalRows; i++) 
+		for (int i = 1; i <=tottalRows; i++) //row value index from 1 because 0 index does not have test data 
 		{
 			for (int j = 0; j <totalCells; j++) 
 			{

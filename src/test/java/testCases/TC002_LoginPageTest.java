@@ -32,11 +32,13 @@ public class TC002_LoginPageTest extends BaseClass {
 		//My Account page
 		 MyAccountPage ma = new MyAccountPage(driver);
 		 
-		 boolean loginPageDisplayed = ma.msgIsDisplayed();
+		// boolean loginPageDisplayed = ma.msgIsDisplayed();
 		 //Assert.assertEquals(loginPageDisplayed, true, "Login failed");
-		Assert.assertTrue(loginPageDisplayed);
-		
+		Assert.assertTrue(ma.msgIsDisplayed());
+		logger.info("Login succesfull");
 		ma.clickLogout();
+		logger.info("Logout succesfull");
+
 		}
 		catch (Exception e) {
 			logger.error("Test failed");
