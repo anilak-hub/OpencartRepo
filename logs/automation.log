@@ -787,3 +787,27 @@
 2025:18:22:07:03.184 [main] INFO  testCases.TC002_LoginPageTest -Login succesfull
 2025:18:22:07:04.750 [main] INFO  testCases.TC002_LoginPageTest -Logout succesfull
 2025:18:22:07:04.751 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:21:17:07:18.369 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:21:17:07:18.616 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:21:17:07:18.896 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:21:17:07:19.095 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:21:17:07:19.166 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:21:17:07:20.231 [main] INFO  testCases.TC002_LoginPageTest -Login succesfull
+2025:21:17:07:20.676 [main] INFO  testCases.TC002_LoginPageTest -Logout succesfull
+2025:21:17:07:20.676 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:21:18:07:16.609 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:21:18:07:16.721 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:21:18:07:17.018 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:21:18:07:17.192 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:21:18:07:17.897 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:21:18:07:17.942 [main] INFO  testCases.TC002_LoginPageTest -Login succesfull
+2025:21:18:07:18.317 [main] INFO  testCases.TC002_LoginPageTest -Logout succesfull
+2025:21:18:07:18.318 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
+2025:22:10:07:16.148 [main] INFO  testCases.TC002_LoginPageTest -****** Starting TC002_LoginPageTest *******
+2025:22:10:07:16.334 [main] INFO  testCases.TC002_LoginPageTest -Clicked on my account
+2025:22:10:07:16.695 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login
+2025:22:10:07:16.877 [main] INFO  testCases.TC002_LoginPageTest -credentials entered
+2025:22:10:07:16.931 [main] INFO  testCases.TC002_LoginPageTest -Clicked on Login Button
+2025:22:10:07:17.660 [main] INFO  testCases.TC002_LoginPageTest -Login succesfull
+2025:22:10:07:18.052 [main] INFO  testCases.TC002_LoginPageTest -Logout succesfull
+2025:22:10:07:18.053 [main] INFO  testCases.TC002_LoginPageTest -****** Finished TC002_LoginPage_Test *******
